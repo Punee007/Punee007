@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Puneeth Sai Rayudu
+- 👋 Hi, I’m Puneeth Sai Rayudu
 - 👀 I’m interested in computers 
 - 🌱 I’m currently learning AI&ML
 - 💞️ I’m looking to collaborate on softwear engineering 
